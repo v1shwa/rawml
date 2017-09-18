@@ -3,7 +3,7 @@
 
 ### [<u>Simple Linear Regression</u>](./SimpleLinearRegression.py):
 
-Based on the [article](https://v1shwa.github.io/blog/understanding-the-math-of-linear-regression/) from [v1shwa.github.io](https://v1shwa.github.io/)
+Based on this [article](https://v1shwa.github.io/blog/understanding-the-math-of-linear-regression/) from [v1shwa.github.io](https://v1shwa.github.io/)
 
 ##### Usage
 
