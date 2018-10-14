@@ -19,3 +19,7 @@ clf = slr.fit(X,y)
 ## Now, we can predict using clf.predict()
 y_pred = clf.predict(X_test)
 ```
+##### Output
+```python
+The output of above example with X_test = 14 will be 71(y_pred).
+```
